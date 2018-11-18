@@ -3,6 +3,9 @@
 O projeto consiste em avaliar a posição Meia dos jogadores do Campeonato de Futebol 2017 (Brasileirão - Série A) da base de dados do Jogo Virtual CartolaFC. Serão avaliados os seguintes aspectos: Pontos por Jogo e Roubadas de Bola, aplicando o algoritmo de aprendizagem de máquina não supervisionado Clustering.
 
 Também avaliaremos o Campeonato de Futebol 2017, para prever se o preço de cada jogador, a cada rodada, é maior ou menor-igual ao preço médio do campeonato 2017. Para isto, utilizaremos Árvores de Decisão (algoritmo de aprendizagem de máquina supervisionado).
+
+O dataset utilizado: dados_agregados_amostras.csv oriundo da API do Cartola FC, que está disponível em https://github.com/henriquepgomide/caRtola.
+
 O projeto está bem detalhado no notebook.
 
 Equipe:
