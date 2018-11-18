@@ -6,6 +6,7 @@ Também avaliaremos o Campeonato de Futebol 2017, para prever se o preço de cad
 O projeto está bem detalhado no notebook.
 
 Equipe:
+
 DANIELA COELHO BATISTA GUEDES PEREIRA
 
 FELIPE VIEIRA DA FONSECA
